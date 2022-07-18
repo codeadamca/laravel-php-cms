@@ -1,4 +1,4 @@
-# PHP and Laravel CMS
+# Laravel CMS using Vanilla PHP Views
 
 This repository is copy of the simple [PHP CMS](https://github.com/codeadamca/php-cms) except the CMS has been converted to Laravel. 
 
