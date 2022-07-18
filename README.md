@@ -1,4 +1,4 @@
-# php-cms-laravel
+# A PHP and Laravel CMS
 
 This repository is copy of the simple [PHP CMS](https://github.com/codeadamca/php-cms) except the CMS has been converted to Laravel. 
 
