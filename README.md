@@ -12,13 +12,15 @@ FILESYSTEM_DRIVER=public
 
 The database setup includes migrations and seeding. Run the following command to initialize the database:
 
-```
+```sh
 php artisan migrate:refresh --seed
 ```
 
 All user acocunts will have the default password of "password".
 
-## Tutorial Requirements:
+*** 
+
+## Repo Resources
 
 * [Visual Studio Code](https://code.visualstudio.com/) or [Brackets](http://brackets.io/) (or any code editor)
 * [Laravel](https://laravel.com/)
