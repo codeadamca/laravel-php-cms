@@ -18,14 +18,15 @@ php artisan migrate:refresh --seed
 
 All user accounts will have the default password of `password`.
 
+> Full tutorial URL:  
+> https://codeadam.ca/learning/php-cms-laravel.html
+
 *** 
 
 ## Repo Resources
 
-* [Visual Studio Code](https://code.visualstudio.com/) or [Brackets](http://brackets.io/) (or any code editor)
+* [Visual Studio Code](https://code.visualstudio.com/)
 * [Laravel](https://laravel.com/)
-
-Full tutorial URL: https://codeadam.ca/learning/php-cms-laravel.html
 
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
